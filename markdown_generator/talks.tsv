@@ -1,5 +1,8 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Modeling strangers: population structure, fluidity and complexity in shared cultural systems	Conference talk	talk-1	Cultural Evolution Society Conference	2018-10-23	Tempe, AZ, USA		
+Cultural selection for efficiency	Poster	poster-1	3rd Annual ESLR Workshop	2019-06-12	Leipzig, DE		
+Turnover increases cultural selection for efficient behaviors	Poster	Poster-2	Association for the Study of Animal Behaviour summer conference 2019	2019-08-26	Konstanz, DE		
+Demographic factors and cultural evolution in Parus major	ECR talk	Talk-2	Centre for the Advanced Study of Collective Behavior 2020 Spring Retreat	2020-03-02	Konstanz, DE		
+Turnover facilitates cultural selection for efficiency	Conference talk	Talk-3	"The 57th Annual Conference of the Animal Behavior Society"	2020-07-28	Virtual		
+Turnover and cultural selection for efficiency	ECR talk	Talk-4	IMPRS Grand Challenges Symposium 2020	2020-10-09	Virtual		
+Social mechanisms and cultural evolution in Parus major	ECR talk	Talk-5	Centre for the Advanced Study of Collective Behavior 2021 Spring Retreat	2021-03-24	Virtual		
