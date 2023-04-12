@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "In the media"
+    url: /publicity/
 
   - title: "Talks and posters"
     url: /talks/    
