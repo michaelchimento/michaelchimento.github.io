@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael Chimento"
 title_separator          : "-"
 name                     : &name "Michael Chimento"
-description              : &description "Postdoctoral fellow at CASCB, MPIAB"
+description              : &description "Postdoc at CASCB, Uni Zurich, MPIAB"
 url                      : https://michaelchimento.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaelchimento.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Michael Chimento"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral fellow studying cultural evolution using lab experiments with great tits and agent based models."
+  bio              : "Postdoc studying cultural evolution using lab experiments with great tits and agent based models."
   location         : "Germany"
   employer         : "Uni Konstanz"
   pubmed           : 
