@@ -13,10 +13,11 @@ Education
 ======
 * B.A. in Politics, New York University, 2012
 * M.Sc. in Evolution of Language and Cognition, 2018
-* Ph.D in Biology, IMPRS for Organismal Biology / Konstanz University, 2022 (expected)
+* Ph.D in Biology, IMPRS for Organismal Biology / Konstanz University, 2022
 
 Skills
 ======
+* Experimental design
 * Data analysis
 * Programming
   * Python (advanced)
