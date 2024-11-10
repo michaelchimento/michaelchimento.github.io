@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Michael Chimento"
   avatar           : "profile.jpg"
-  bio              : "Postdoc studying cultural evolution using lab experiments with great tits and agent based models."
+  bio              : "Postdoc studying animal culture using experimental, observational and theoretical approaches."
   location         : "Germany"
-  employer         : "Uni Konstanz"
+  employer         : "Centre for the Advanced Study of Collective Behavior - UKN; Department of Evolutionary Biology and Environmental Studies - UZH "
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CK4XRd8AAAAJ&hl=en"
   email            : "mchimento at ab dot mpg dot de"
@@ -105,7 +105,7 @@ author:
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-5697-1701"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "www.soundcloud.com/puzzlebox"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@puzzlbox"
   wikipedia        :
 
 
