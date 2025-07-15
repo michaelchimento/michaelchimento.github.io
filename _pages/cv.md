@@ -17,12 +17,12 @@ Education
 
 Skills
 ======
-* Experimental design
-* Data analysis
-* Programming
-  * Python (advanced)
-  * R (advanced)
-* Writing
+* Experimental design (cultural diffusion and social learning experiments)
+* Agent based modelling (Python, R)
+* Data analysis (Stan, R)
+  * Bayesian modelling
+  * Network-based diffusion analysis, reinforcement learning
+  * Hierarchical modelling
 
 Publications
 ======
