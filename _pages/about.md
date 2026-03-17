@@ -16,4 +16,4 @@ I am an interdisciplinary researcher interested in questions about how cultural 
 
 I am the developer of an R package for the Bayesian modeling of social transmission in networked populations: [STbayes](https://michaelchimento.github.io/STbayes/). If you're interested in using it, please reach out.
 
-In my spare time, I like to dj and make electronic music. Sometimes I post mixes and songs at [yt channel](https://youtube.com/@theque_cachee) and [soundcloud](https://soundcloud.com/theque_cachee)!
+In my spare time, I like to dj and make electronic music. Sometimes I post mixes and songs at [yt channel](https://youtube.com/@tek_cashay) and [soundcloud](https://soundcloud.com/tek_cashay)!
