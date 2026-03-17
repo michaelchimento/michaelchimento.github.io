@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael Chimento"
 title_separator          : "-"
 name                     : &name "Michael Chimento"
-description              : &description "Postdoc at CASCB, Uni Zurich, MPIAB"
+description              : &description "Postdoc at Uni Zurich"
 url                      : https://michaelchimento.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaelchimento.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Postdoc studying animal culture using experimental, observational and computational approaches."
   location         : "Germany"
-  employer         : "UKN; UZH"
+  employer         : "UZH"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CK4XRd8AAAAJ&hl=en"
   email            : "mchimento at ab dot mpg dot de"
@@ -105,11 +105,11 @@ author:
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-5697-1701"
   pinterest        :
-  soundcloud       : "pzzlbox"
+  soundcloud       : "tek_cashay"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "evogom"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
