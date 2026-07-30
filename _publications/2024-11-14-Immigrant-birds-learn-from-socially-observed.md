@@ -1,5 +1,6 @@
 ---
 title: "Immigrant birds learn from socially observed differences in payoffs when their environment changes"
+authors: 'Chimento M., Alarcón-Nieto G., Aplin L.M.'
 collection: publications
 permalink: /publication/2024-11-14-Immigrant-birds-learn-from-socially-observed
 date: 2024-11-14

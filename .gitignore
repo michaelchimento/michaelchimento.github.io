@@ -1,2 +1,6 @@
 _site/
 *.Rhistory
+vendor/
+.bundle/
+.claude/
+CLAUDE.md

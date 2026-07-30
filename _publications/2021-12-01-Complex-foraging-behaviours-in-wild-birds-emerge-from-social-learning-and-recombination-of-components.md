@@ -1,5 +1,6 @@
 ---
 title: "Complex foraging behaviours in wild birds emerge from social learning and recombination of components"
+authors: 'Wild S.&dagger;, Chimento M.&dagger;, McMahon K., Farine D.R., Sheldon B., Aplin L.M.'
 collection: publications
 permalink: /publication/2021-01-01-Complex-foraging-behaviours-in-wild-birds-emerge-from-social-learning-and-recombination-of-components
 date: 2021-12-01

@@ -5,12 +5,39 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
+<h2 class="publication-section">Keynotes</h2>
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.type == 'Keynote' %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2 class="publication-section">Invited seminars</h2>
+{% for post in site.talks reversed %}
+  {% if post.type == 'Invited seminar' %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2 class="publication-section">Conference talks</h2>
+{% for post in site.talks reversed %}
+  {% if post.type == 'Conference talk' %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2 class="publication-section">Conference posters</h2>
+{% for post in site.talks reversed %}
+  {% if post.type == 'Poster' %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2 class="publication-section">Seminars</h2>
+{% for post in site.talks reversed %}
+  {% if post.type == 'Seminar' or post.type == 'ECR talk' %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}

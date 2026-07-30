@@ -1,5 +1,6 @@
 ---
 title: "Efficiency fosters cumulative culture across species"
+authors: 'Gruber T.&dagger;, Chimento M.&dagger;, Aplin L.M., Biro D.'
 collection: publications
 permalink: /publication/2021-01-01-Efficiency-fosters-cumulative-culture-across-species
 date: 2021-12-01

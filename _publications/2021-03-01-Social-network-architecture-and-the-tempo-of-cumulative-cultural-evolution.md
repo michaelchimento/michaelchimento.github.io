@@ -1,5 +1,6 @@
 ---
 title: "Social network architecture and the tempo of cumulative cultural evolution"
+authors: 'Cantor M.&dagger;, Chimento M.&dagger;, Smeele S.&dagger;, He P., Papageorgiou D., Aplin L.M., Farine D.R.'
 collection: publications
 permalink: /publication/2021-03-01-Social-network-architecture-and-the-tempo-of-cumulative-cultural-evolution
 date: 2021-03-01

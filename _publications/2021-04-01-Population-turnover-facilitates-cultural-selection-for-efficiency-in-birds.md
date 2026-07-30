@@ -1,5 +1,6 @@
 ---
 title: "Population turnover facilitates cultural selection for efficiency in birds"
+authors: 'Chimento M., Alarcón-Nieto G., Aplin L.M.'
 collection: publications
 permalink: /publication/2021-04-01-Population-turnover-facilitates-cultural-selection-for-efficiency-in-birds
 date: 2021-04-01

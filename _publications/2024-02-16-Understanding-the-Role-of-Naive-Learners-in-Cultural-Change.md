@@ -1,5 +1,6 @@
 ---
 title: "Understanding the Role of Naive Learners in Cultural Change"
+authors: 'Chimento M., Aplin L.M.'
 collection: publications
 permalink: /publication/2024-02-16-Understanding-the-Role-of-Naive-Learners-in-Cultural-Change
 date: 2024-02-16

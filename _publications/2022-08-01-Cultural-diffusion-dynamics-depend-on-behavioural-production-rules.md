@@ -1,5 +1,6 @@
 ---
 title: "Cultural diffusion dynamics depend on behavioural production rules"
+authors: 'Chimento M., Barrett B., Kandler A., Aplin L.M.'
 collection: publications
 permalink: /publication/2022-08-01-Cultural-diffusion-dynamics-depend-on-behavioural-production-rules
 date: 2022-08-01

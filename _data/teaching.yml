@@ -1,0 +1,130 @@
+# Teaching, workshops, supervision & service.
+# Single source of truth for the /teaching/ page.
+# Fields per item:
+#   role    – bold lead-in (required)
+#   title   – the described activity (optional)
+#   link    – external URL applied to the title (optional)
+#   venue   – affiliation / institution line (optional)
+#   year    – display string, e.g. "2026", "2024 – present" (optional)
+#   details – multi-line markdown shown in an expandable dropdown (optional)
+
+sections:
+  - name: "Workshops"
+    items:
+      - year: "2026"
+        role: "Invited guest lecturer"
+        title: "Introduction to Bayesian NBDA with STbayes"
+        link: "https://www.eslrsociety.com/events/"
+        venue: "Early Career Social Learning Society (online)"
+
+      - year: "2026"
+        role: "Invited guest lecturer"
+        title: "Workshop: Bayesian network-based diffusion analysis with the STbayes R package"
+        link: "https://culture-conference.com/workshop/"
+        venue: "Culture Conference, Utrecht University"
+
+      - year: "2025"
+        role: "Invited guest lecturer"
+        title: "Summer School for the Centre for Decision Sciences"
+        link: "https://center-decision-sciences.com/cds-summer-school/"
+        venue: "Centre for Decision Sciences, Royal Holloway, University of London"
+        details: |
+          Delivered the workshop "Bayesian Models of Social Transmission" — a 30-minute
+          lecture and 60-minute hands-on coding tutorial simulating transmission on
+          networks and inferring parameter values using STbayes.
+
+      - year: "2025"
+        role: "Invited guest lecturer"
+        title: "Konstanz Summer School of Collective Behaviour"
+        link: "https://www.exc.uni-konstanz.de/kscb/"
+        venue: "CASCB, University of Konstanz"
+        details: |
+          Delivered the workshop "Quantifying Social Transmission in Collectives" — a
+          90-minute lecture and 60-minute hands-on coding tutorial simulating transmission
+          on networks and inferring parameter values using STbayes.
+
+      - year: "2025"
+        role: "Co-organizer"
+        title: "ALIFE 2025 — Cultural Evolution of Planet X: Emergent Creativity and Wisdom of the Crowds"
+        link: "https://sites.google.com/view/planetx-alife2025/home"
+        venue: "Kyoto, JP"
+
+      - year: "2023"
+        role: "Co-organizer"
+        title: "CASCB Reinforcement Learning workshop"
+        link: "https://www.wiwi.uni-konstanz.de/fachschaft/uebungsseite-startseite/detailseite/detailseite-kalender-news/termin/2-morning-workshop-on-reinforcement-learning/"
+        venue: "University of Konstanz"
+        details: |
+          Co-organized and delivered a short lecture at a two-day deep reinforcement
+          learning workshop for 16 participants spanning CASCB, Biology, Physics and
+          Psychology. Day one covered key concepts and algorithms — states, actions,
+          policies, value functions and value-estimation methods — with hands-on coding
+          tasks in Google Colab. Day two covered Q-learning and Deep Q-learning, with
+          experiments on Chase and Escape agents as an introduction to multi-agent
+          predator–prey settings. Participants closed by brainstorming applications of
+          reinforcement learning to their own research.
+
+      - year: "2021"
+        role: "Co-organizer"
+        title: "4th Early Social Learning Researchers (ESLR) Workshop: Tracing Transmission"
+        link: "https://www.eslrsociety.com/events/4th-annual-workshop/"
+        venue: "Virtual"
+
+      - year: "2022"
+        role: "Instructor"
+        title: "Skills Course – Workshop Bazar: Basic programming with Python"
+        venue: "Max Planck Institute of Animal Behavior"
+        details: |
+          Delivered a short introductory course on programming with Python.
+
+  - name: "University teaching"
+    items:
+      - year: "2024, 2025"
+        role: "Guest lecturer"
+        title: "MSc course “Evolutionary Organismal Biology”"
+        venue: "Department of Biology, University of Konstanz"
+        details: |
+          Delivered the lecture "The Evolution of Social Learning" — an introduction to
+          social learning mechanisms, Rogers' paradox and its solutions, and contemporary
+          examples of social learning research in non-human animals.
+
+      - year: "2020, 2021"
+        role: "Guest lecturer"
+        title: "MSc course “Organismal Biology: Going Wild”"
+        venue: "Department of Biology, University of Konstanz"
+        details: |
+          Delivered the lecture "Automated data collection" and co-supervised groups of
+          MSc students on three-week research projects on wild great tit cognition.
+
+  - name: "Supervision"
+    items:
+      - year: "2025 – present"
+        role: "Advisory Committee member"
+        title: "PhD student Leo North"
+        venue: "Division of Ecology and Evolution (E&E), Australian National University"
+
+      - year: "2024 – 2026"
+        role: "Co-supervisor"
+        title: "MSc student Lara Blumenstiel"
+        venue: "Department of Evolutionary Biology and Environmental Studies, University of Zurich"
+        details: |
+          Thesis: "Testing Associative and Reversal Learning in a Wild Parrot
+          (*Cacatua galerita*)."
+
+      - year: "2024"
+        role: "Co-supervisor"
+        title: "MSc student Caroline Preuss"
+        venue: "Department of Biology, University of Konstanz"
+        details: |
+          Thesis: "The influence of cultural diffusion on the social networks of the
+          great tit."
+
+  - name: "Representation"
+    items:
+      - year: "2023 – 2024"
+        role: "Postdoc representative"
+        venue: "Max Planck Institute of Animal Behavior"
+
+      - year: "2017 – 2018"
+        role: "MSc student representative"
+        venue: "University of Edinburgh"

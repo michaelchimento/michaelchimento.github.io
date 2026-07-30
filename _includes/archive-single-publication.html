@@ -1,0 +1,10 @@
+{% include base_path %}
+
+<div class="list__item publication">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="publication__title" itemprop="headline">
+      {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}
+    </div>
+    <div class="publication__meta">{{ post.authors | replace: 'Chimento M.', '<strong>Chimento M.</strong>' }}, <i>{{ post.venue }}</i> ({{ post.date | default: "1900-01-01" | date: "%Y" }})</div>
+  </article>
+</div>

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "First author publications"
+title: "First author journal publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,6 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
+<p class="publication-legend">&dagger; denotes equal contribution among first authors.</p>
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% unless post.pubtype == 'other' %}
+    {% include archive-single-publication.html %}
+  {% endunless %}
+{% endfor %}
+
+<h2 class="publication-section">Other publications</h2>
+
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'other' %}
+    {% include archive-single-publication.html %}
+  {% endif %}
 {% endfor %}

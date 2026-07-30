@@ -1,5 +1,6 @@
 ---
 title: "The contribution of movement to social network structure and spreading dynamics under simple and complex transmission"
+authors: 'Chimento M., Farine D.R.'
 collection: publications
 permalink: /publication/2024-09-02-contribution-of-movement-to-social-network
 date: 2024-09-02
