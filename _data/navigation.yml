@@ -6,8 +6,11 @@ main:
   - title: "In the media"
     url: /publicity/
 
-  - title: "Talks and posters"
+  - title: "Talks & posters"
     url: /talks/    
 
-  - title: "Teaching and leadership"
+  - title: "Teaching & Service"
     url: /teaching/
+
+  - title: "Play"
+    url: /p5_githubpages/cultural_diffusion_viz/

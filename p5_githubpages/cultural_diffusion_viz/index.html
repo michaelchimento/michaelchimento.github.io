@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cultural diffusion simulator</title>
+  <style>
+    body {
+      padding: 0;
+      margin: 0;
+      font-family: sans-serif;
+    }
+
+    #intro {
+      max-width: 560px;
+      margin: 8px auto 32px;
+      padding: 0 16px;
+      box-sizing: border-box;
+      line-height: 1.6;
+      font-size: 15px;
+      color: #222;
+    }
+
+    #intro a {
+      color: #268bd2;
+    }
+
+    #viz-wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+      width: min(500px, 94vw);
+      margin: 20px auto 0;
+    }
+
+    #viz-wrapper canvas {
+      max-width: 100%;
+      height: auto;
+    }
+
+    #control-panel {
+      width: 100%;
+      box-sizing: border-box;
+      background: #f5f5f5;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 12px 16px;
+      font-size: 13px;
+      color: #222;
+    }
+
+    .control-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 6px 0;
+    }
+
+    .control-row label {
+      flex: 0 0 46%;
+    }
+
+    .control-row input[type="range"],
+    .control-row select {
+      flex: 1;
+      min-width: 0;
+    }
+  </style>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.4.2/lib/p5.js"></script>
+</head>
+
+<body>
+  <div id="sketch-holder"></div>
+  <script src="interactive_diffusion.js"></script>
+  <div id="intro">
+    <p>This simulation was written towards the end of my PhD in 2022. Actually, I only made it for a nice
+    viz in my thesis presentation, but it became the inspiration for the paper
+    <a href="https://doi.org/10.1098/rstb.2022.0524">The contribution of movement to social
+    network structure and spreading dynamics under simple and complex transmission</a>,
+    coauthored with Damien Farine. This simulates spatially-explicit cultural spread using the
+    NBDA framework. The take-home message is that transmission dynamics are dominated by the time
+    it takes individuals to come into contact, more-so than transmission rules themselves. you can play around with 
+    parameters using the controls, and click a node to seed an
+    innovation.</p>
+  </div>
+</body>
+
+</html>
