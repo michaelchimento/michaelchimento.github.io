@@ -1,6 +1,6 @@
 ---
 title: "Peering into the world of wild passerines with 3d-SOCS: Synchronized video capture and posture estimation"
-authors: 'Chimento M., Chan A.H.H., Aplin L.M., Kano F.'
+authors: 'Chimento M.&dagger;, Chan A.H.H.&dagger;, Aplin L.M., Kano F.'
 collection: publications
 permalink: /publication/2025-06-12-Peering-into-the-world
 date: 2025-06-12
