@@ -11,10 +11,11 @@ research.</p>
 <style>
   .play-grid { display: flex; flex-direction: column; gap: 24px; margin-top: 20px; }
   .play-card { display: flex; gap: 18px; align-items: flex-start; }
-  .play-card img { width: 200px; max-width: 40%; height: auto; border: 1px solid #ccc; border-radius: 6px; flex: 0 0 auto; }
+  .play-card > a { flex: 0 0 200px; width: 200px; height: 150px; display: block; overflow: hidden; border: 1px solid #ccc; border-radius: 6px; }
+  .play-card > a img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .play-card .play-body h3 { margin: 0 0 6px; }
   .play-card .play-body p { margin: 0; font-size: 14px; line-height: 1.5; }
-  @media (max-width: 480px) { .play-card { flex-direction: column; } .play-card img { max-width: 100%; width: 100%; } }
+  @media (max-width: 480px) { .play-card { flex-direction: column; } .play-card > a { flex-basis: auto; width: 100%; height: 180px; } }
 </style>
 
 <div class="play-grid">
