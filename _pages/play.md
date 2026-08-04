@@ -26,8 +26,7 @@ research.</p>
     </a>
     <div class="play-body">
       <h3><a href="/p5_githubpages/cultural_diffusion_viz/">Spatially-explicit cultural diffusion</a></h3>
-      <p>Cultural diffusion in a moving population. Tweak parameters and
-      click a node to seed an innovation.</p>
+      <p>Cultural diffusion in a moving population.</p>
     </div>
   </div>
 
@@ -36,7 +35,7 @@ research.</p>
       <img src="/p5_githubpages/ewa_nbda_viz/example_nbda_ewa.png" alt="EWA-NBDA sketch">
     </a>
     <div class="play-body">
-      <h3><a href="/p5_githubpages/ewa_nbda_viz/">EWA-NBDA: acquisition & production</a></h3>
+      <h3><a href="/p5_githubpages/ewa_nbda_viz/">NBDA+EWA: acquisition & production</a></h3>
       <p>A novel behaviour competes with an established tradition in a structured population. Social
       transmission (NBDA) governs acquisition; experience-weighted attraction
       (EWA) governs how often agents use it once learned.</p>
