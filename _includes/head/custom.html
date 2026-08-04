@@ -35,4 +35,17 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<!-- Per-page social-share preview image (Open Graph + Twitter card). Opt-in via the
+     `social_image` front-matter key; not rendered on the page itself. Used for pages
+     (e.g. the p5 sketches on the `default` layout) that have no `header.image`. -->
+{% if page.social_image %}
+  {% assign social_image_url = page.social_image %}
+  {% unless social_image_url contains "://" %}
+    {% assign social_image_url = social_image_url | prepend: site.baseurl | prepend: site.url %}
+  {% endunless %}
+  <meta property="og:image" content="{{ social_image_url }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ social_image_url }}">
+{% endif %}
+
 <!-- end custom head snippets -->

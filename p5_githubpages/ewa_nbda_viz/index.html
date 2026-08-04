@@ -1,0 +1,70 @@
+---
+layout: default
+title: "EWA-NBDA"
+permalink: /p5_githubpages/ewa_nbda_viz/
+social_image: /p5_githubpages/ewa_nbda_viz/example_nbda_ewa.png
+---
+
+<style>
+  #intro {
+    max-width: 640px;
+    margin: 8px auto 32px;
+    padding: 0 16px;
+    box-sizing: border-box;
+    line-height: 1.6;
+    font-size: 15px;
+  }
+
+  #viz-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    width: min(640px, 94vw);
+    margin: 30px auto 0;
+  }
+
+  #viz-wrapper canvas {
+    max-width: 100%;
+    height: auto;
+  }
+
+  #control-panel {
+    width: 100%;
+    box-sizing: border-box;
+    background: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 13px;
+    color: #222;
+  }
+
+  .control-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 6px 0;
+  }
+
+  .control-row label {
+    flex: 0 0 46%;
+  }
+
+  .control-row input[type="range"],
+  .control-row select {
+    flex: 1;
+    min-width: 0;
+  }
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/p5@1.4.2/lib/p5.js"></script>
+
+<div id="sketch-holder"></div>
+<script src="ewa_nbda.js"></script>
+
+<div id="intro">
+  <p>This sketch visualizes a simplified version of the model I created for <a href="https://doi.org/10.1098/rspb.2022.1001">Cultural diffusion dynamics depend on behavioural production rules</a>. A novel behaviour competes against an established tradition in a structured population. Agents can socially learn the novel behaviour from observing its production by others, following the <strong>network-based diffusion (NBDA)</strong> framework. Once an agent knows the behavior, how often it chooses to use it is governed by <strong>experience-weighted attraction (EWA)</strong> reinforcement learning.</p>
+  
+  <p>This model disambiguates how social cues act on <em>acquisition (social transmission)</em> versus <em>production (social information use)</em>. Changes in the production mechanism alter transmission dynamics in counter-intuitive ways. For example, strong social information use hinders the spread of new variants. We can also compare the order that agents acquire the behavior to the order that agents first use a behavior (plotted in the heatmap). The paper gives more details about when we can expect these orders to diverge.</p>
+</div>
