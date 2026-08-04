@@ -32,7 +32,7 @@ research.</p>
 
   <div class="play-card">
     <a href="/p5_githubpages/ewa_nbda_viz/">
-      <img src="/p5_githubpages/ewa_nbda_viz/example_nbda_ewa.png" alt="EWA-NBDA sketch">
+      <img src="/p5_githubpages/ewa_nbda_viz/example_nbda_ewa.png" alt="NBDA+EWA sketch">
     </a>
     <div class="play-body">
       <h3><a href="/p5_githubpages/ewa_nbda_viz/">NBDA+EWA: acquisition & production</a></h3>
